@@ -4,7 +4,7 @@
 
 I build AI‑driven solutions, chat agents & smart integrations that drive growth. My mission is to flip Parkinson’s Law by using AI and Prompt Engineering to accomplish more in less time.
 
-With over **6 years** in software development, I craft high‑performance prompts, automate complex workflows, and integrate AI into products that deliver measurable results.
+With over **6+ years** in software development, I craft high‑performance prompts, automate complex workflows, and integrate AI into products that deliver measurable results.
 
 ### ✨ Highlights
 
