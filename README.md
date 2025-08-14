@@ -30,7 +30,7 @@ With over **6 years** in software development, I craft high‑performance prompt
 ### 🤝 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/akkshay-paatil-genai-expert/)
-- [Portfolio / Blog](#) (Coming soon!)
+- [Portfolio](https://type.link/akshaypatil-vit) 
 - 📧 akshaypatil.vit@gmail.com
 
 When I'm not crafting prompts or coding, you’ll find me **trekking** or experimenting in the **kitchen**. Let’s connect and build something awesome together! 🚀
